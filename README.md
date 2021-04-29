@@ -7,6 +7,9 @@ A website that has been cleaned up. The code is not reduntant. Classes and ID's 
 * HTML
 * CSS
 
+## Screenshot
+
+
 ## Website
 https://mikeysoar.github.io/Horiseon-Optimized/
 
